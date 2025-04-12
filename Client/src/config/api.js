@@ -1,6 +1,6 @@
 
 import axios from 'axios';
-const DEPLOYED = 'https://ecommerce-website-6t4i.onrender.com/';
+const DEPLOYED = 'https://ecommerce-website-6t4i.onrender.com';
 
 const LOCALHOST='http://localhost:5454'
 
